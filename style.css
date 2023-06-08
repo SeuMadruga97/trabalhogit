@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+.container{
+    line-height: 145%;
+}
+.header{
+    background-color: rgb(27, 30, 253);
+    align-items: center;
+    padding: 15px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.header h1{
+    background-color: rgb(156, 158, 165);
+    font-size:30px;
+    font-family: 'Pacifico', cursive;
+}
+.header .social a {
+padding: 0 5px;
+text-decoration: none;
+}
+
+ul{
+
+    list-style-type: none; 
+    border-left: 1px solid rgb(13, 9, 236);
+    
+    }
+    
+    li a{
+    display: block;
+    color: rgb(6, 22, 245);
+    padding: 8px 16px;
+    text-decoration: none;
+    }
+
+    
